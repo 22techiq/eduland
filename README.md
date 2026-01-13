@@ -15,7 +15,7 @@
 
   Eduland is a fully responsive education landing page, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/eduland/"><strong>➥ Live Demo</strong></a>
+  <a href="https://.github.io/eduland/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -49,7 +49,7 @@ git clone https://github.com/codewithsadee/eduland.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/tech).
 
 ### License
 
